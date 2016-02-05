@@ -1,24 +1,23 @@
-# Build-Day-2016-TAMU
-Diversity Open Data Hackathon
+# B/CS Diversity Open Data Build Day
 ======================================
 ![alt tag](http://www.arch.tamu.edu/media/photologue/phlogphoto/cache/BuildDay%20Logo2_small%20size_banner.png)
 
 The College of Architecture Diversity Council, partnering with the Center for the Study of Digital Libraries, will hold a 24 hour challenge for interdisciplinary teams to create and publish visualisations using Texas A&M University’s publicly available data. We are excited to take part in the worldwide efforts to liberate data.
 
-What:
+What:  B/CS Diversity Open Data BuildDay is a 24 hour interdisciplinary competition to address challenges posed by civic groups, student organizations and city representatives dedicated to social justice. The event will provide a platform for critical discussion of 'diversity' and 'inclusivity' of Texas A&M and the wider Bryan / College Station area. 
 
-The goal is to analyze the available data; create engaging presentations; and showcase in an exhibition. The presentations can take many forms: graphs , infographics, data driven documents, websites, stop-motion animation, 3D objects.
+Who:  Students, faculty and staff from all backgrounds and disciplines are welcome. Teams up to 5 people.
 
-Who:
+When:  February 05-06 2016: Friday 5pm - Saturday 5pm.  Registration starts at 4pm - please come early to get set. 
 
-The event is for students and faculty of all colleges who have an interest in social issues, justice, equality, and are familiar with tools used in fields ranging visualisation, graphic design, digital technology, three-dimensional objects. Interdisciplinary teams are encouraged.
+Where:  Langford Building A (Kick Off in Geren Auditorium, Langford Building B)
 
-Where:
+Why:  Your ideas will be exposed to city representatives, expert mentors from various departments and local businesses. In addition to addressing some of the most pressing issues in the B/CS community, you will also compete for the total of $5000 in prize money.
 
-The event will take place in Langford building studio space on the third floor.
+Best response to each of the six Challenges will receive $500 per team. All teams will compete for additional $2000 to be awarded in several categories (TBC at the Kick off): such as most daring, critical, creative, engaging and practical.
 
-When:
+Come and meet new people, expand your skillset and have some FUN!
 
-The kick off will be at 5pm on Friday 04-04-14. Show and tell will commence at 3pm on Saturday 05-04-14. Awards will be presented at 4pm on Saturday. This is a great chance to meet, create interdisciplinary connections, build a portfolio and have a fun time! There will be food and drinks along with experts in minorities and and technology to guide the way.
+We will have a team of DJs for the duration of the event, free food and snacks, free use of woodshop, laser cutters, 3D printer and $50 per team to purchase material to be used for projects. 
 
-Want to know more? Go to [our web page](http://www.arch.tamu.edu/diversity/hackathon/)!
+Want to know more? Go to [our web page](http://www.arch.tamu.edu/diversity/events/buildday-2016/)!
