@@ -1,4 +1,4 @@
-For this Hackathon, you can use any kinds of publicly available data, i.e. any data that is officially shared with the public by the Texas A&M University or other institutions. **All teams must use at least some TAMU historic data**, but you can also augment with additional data sources. For those .doc/.docx/.pdf files, please click "View Raw" to download them.
+For this Hackathon, you can use any kinds of publicly available data, i.e. any data that is officially shared with the public by the Texas A&M University or other institutions. For those .doc/.docx/.pdf files, please click "View Raw" to download them.
 
 For example:
 
